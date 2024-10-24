@@ -5,4 +5,8 @@ tercera linea
 =======
 Primera linea de info_Proyecto.txt
 desarollo
+<<<<<<< HEAD
 Dalila
+=======
+SergioBolivar
+f935e35c5dc58f5b7a673916c8e599d77aa0c4b0
