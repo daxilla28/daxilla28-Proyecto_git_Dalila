@@ -1,3 +1,7 @@
+HEAD
 primera linea
 segunda linea
 tercera linea
+=======
+Primera linea de info_Proyecto.txt
+desarollo
